@@ -1,9 +1,9 @@
 .wy-nav-content {
     max-width: none;
-    margin-left: -1cm;
+    /*margin-left: 0cm;*/
 }
 
-.wy-nav-side {
-    width: 10% !important;
+/*.wy-nav-side {*/
+/*    width: 10% !important;*/
 
-}
+/*}*/
